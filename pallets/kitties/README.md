@@ -1,8 +1,5 @@
-README
 
-1. 单元测试截图
+1. 创建，sale，buy
+![kitties](./image/trade_log.png)
  
-![单元测试截图](./image/test.png)
- 
-2. Node 运行截图
-![Node 运行截图](./image/node.png)
+2. upgrade
